@@ -30,12 +30,17 @@ This repository contains a PHP-based web application that demonstrates CRUD (Cre
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/your-username/PHP-jQuery-AJAX-CRUD-Operation.git
+```
+## 🚀 Usage
 
-##🚀 Usage
-Use the user interface to create, read, update, and delete records.
+Once the application is set up and running in your browser:
 
-All actions are handled via jQuery-powered AJAX calls without reloading the page.
+- Use the user-friendly interface to **Create**, **Read**, **Update**, and **Delete** records.
+- All operations are handled seamlessly via **jQuery-powered AJAX** requests.
+- The page does **not reload**, ensuring a fast and smooth user experience.
 
-##🤝 Contributing
+## 🤝 Contributing
+
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request with improvements, bug fixes, or enhancements.
+
